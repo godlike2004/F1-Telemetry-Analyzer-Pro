@@ -26,6 +26,13 @@ From raw data packets → clean CSV → visual dashboard → **AI driver improve
 > *"Find those last tenths."* 🏁
 
 ---
+## 🚀 Live Demo
+
+<p align="center">
+  <a href="https://f1-telemetry-analyzer-pro-tjxymbbxoe3o2kky8nhizp.streamlit.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Open%20App-blue?style=for-the-badge">
+  </a>
+</p>
 
 ## 🎥 Demo 
 
