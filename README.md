@@ -200,3 +200,13 @@ If you like this project:
 This isn’t just telemetry.
 
 It’s your **race engineer in code**. 🧠🏎️
+---
+
+## 👨‍💻 Developed By
+
+**Harshit Singh Rathore**  
+Telemetry Systems | Motorsport Analytics | AI Integration  
+
+> *"Engineering performance, one lap at a time."*
+
+🔗 GitHub: https://github.com/godlike2004
