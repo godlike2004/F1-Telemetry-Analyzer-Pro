@@ -91,8 +91,8 @@ https://youtu.be/lxzFz4OJxt4
 ### 1️⃣ Clone Repo
 
 ```bash
-git clone [https://github.com/your-username/F1-Telemetry-Analyzer.git](https://github.com/your-username/F1-Telemetry-Analyzer.git)
-cd F1-Telemetry-Analyzer
+git clone [https://github.com/godlike2004/F1-Telemetry-Analyzer-Pro.git](https://github.com/godlike2004/F1-Telemetry-Analyzer-Pro.git)
+cd F1-Telemetry-Analyzer-Pro
 ```
 
 ### 2️⃣ Install Dependencies
